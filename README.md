@@ -13,15 +13,15 @@ We would like to thank [Andrea Continella, Ph.D.](https://conand.me/) to provide
 
 
 ### Citing this work
-If you use our implementation for academic research, you are highly encouraged to cite [our paper](https://ahsanayub.github.io/assets/paper/Authors_Copy_An_IO_Request_Packet_(IRP)_Driven_Effective_Ransomware_Detection_Scheme_using_Artificial_Neural_Network.pdf).
+If you use our implementation for academic research, you are highly encouraged to cite [our paper](https://ieeexplore.ieee.org/document/9191509).
 
 ```
 @inproceedings{ayub2020io,
 	title={An I/O Request Packet (IRP) Driven Effective Ransomware Detection Scheme using Artificial Neural Network},
 	author={Ayub, Md Ahsan and Continella, Andrea and Siraj, Ambareen},
-	booktitle={2020 IEEE International Conference on Information Reuse and Integration (IRI)},
+	booktitle={2020 IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI)},
 	year={2020},
-	pages={1-6},
+	pages={319-324},
 	organization={IEEE}
 }
 ```
